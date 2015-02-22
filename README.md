@@ -1,3 +1,7 @@
+=====
+A fork of https://github.com/stefanv/supreme
+=====
+
 ===================================
 supreme -- Super-resolution methods
 ===================================
